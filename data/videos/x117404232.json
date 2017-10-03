@@ -1,0 +1,40 @@
+{
+    "title": "media (4).mp4",
+    "description": "",
+    "referenceId": "b6f56835d3b2f9ad34524293c1009b2c",
+    "date_created": "1506472265",
+    "date_modified": "1506472265",
+    "tags": "",
+    "sourceId": "6",
+    "status": "processing",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "117404232",
+    "loginId": "1759034",
+    "entityType": "1",
+    "sortOrder": "170",
+    "entityIdParent": "117406312",
+    "titleTextEncoded": "media-4-mp4",
+    "category": "",
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 13.398195,
+    "VIDEO_LENGTH": "",
+    "duration": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": ""
+}
